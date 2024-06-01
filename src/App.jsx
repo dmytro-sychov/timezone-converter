@@ -4,7 +4,6 @@ import utc from "dayjs/plugin/utc";
 import { HeroHeader } from "./components/HeroHeader";
 import { HumanizerForm } from "./components/HumanizerForm";
 import { StandardizerForm } from "./components/StandardizerForm/StandardizerForm";
-s;
 
 import styles from "./App.module.css";
 
