@@ -1,0 +1,23 @@
+.container {
+  width: 100%;
+}
+
+.label {
+  font-weight: 500;
+}
+
+.control {
+  width: 100%;
+  text-align: center;
+}
+
+.input,
+input[type="datetime-local"] {
+  width: 100%;
+  padding-block: 0.6rem;
+  padding-inline: 1rem;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 500;
+  box-sizing: border-box;
+}

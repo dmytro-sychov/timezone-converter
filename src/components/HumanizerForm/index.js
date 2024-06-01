@@ -1,0 +1,1 @@
+export { HumanizerForm } from "./HumanizerForm";
